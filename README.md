@@ -1,4 +1,4 @@
-# johnsonAlgo
+# [Johnson's algorithm](https://en.wikipedia.org/wiki/Johnson%27s_algorithm)
 
-using cpp library boost 
-https://www.boost.org/doc/libs/1_68_0/libs/graph/doc/johnson_all_pairs_shortest.html
+## A study of algorithm
+Subject: algorithms and complexity analysis
